@@ -16,4 +16,8 @@ Módulo: Operacionalização de Machine Learning
   Instalar a extensão "GitHub Pull Requests"
   Logar na conta do GitHub na extensão
 
-  4º Passo: Correr o rumos_bank_lending_predicyion.ipynb
+5º Passo: Correr o rumos_bank_lending_predicyion-MLflow.ipynb
+  usar o comando `mlflow ui --backend-store-uri ./mlruns`
+  verificar no broswer `http://127.0.0.1:5000` se ficou correcto
+  
+  o Random Forest foi o melhor modelo, por uma questão de poupança de tempo, os próximos notebooks vão usar apenas este modelo
