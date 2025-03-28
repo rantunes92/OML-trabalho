@@ -1,0 +1,16 @@
+artifact_uri: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização
+  de Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/8690377152644597a0cad9bf836b7eb0/artifacts
+end_time: 1743155110245
+entry_point_name: ''
+experiment_id: '750273558749823695'
+lifecycle_stage: active
+run_id: 8690377152644597a0cad9bf836b7eb0
+run_name: KNN Run
+run_uuid: 8690377152644597a0cad9bf836b7eb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743155057647
+status: 3
+tags: []
+user_id: rjant
