@@ -1,0 +1,16 @@
+artifact_uri: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização
+  de Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/1998e7128bf7484392965a147e792ba3/artifacts
+end_time: 1743163590435
+entry_point_name: ''
+experiment_id: '750273558749823695'
+lifecycle_stage: active
+run_id: 1998e7128bf7484392965a147e792ba3
+run_name: Random Forest Run
+run_uuid: 1998e7128bf7484392965a147e792ba3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743162730373
+status: 3
+tags: []
+user_id: rjant
