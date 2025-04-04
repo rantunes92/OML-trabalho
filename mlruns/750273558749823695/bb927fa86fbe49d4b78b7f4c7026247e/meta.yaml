@@ -1,0 +1,16 @@
+artifact_uri: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização
+  de Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/bb927fa86fbe49d4b78b7f4c7026247e/artifacts
+end_time: 1743764215077
+entry_point_name: ''
+experiment_id: '750273558749823695'
+lifecycle_stage: active
+run_id: bb927fa86fbe49d4b78b7f4c7026247e
+run_name: Logistic Regression Run
+run_uuid: bb927fa86fbe49d4b78b7f4c7026247e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743764085960
+status: 3
+tags: []
+user_id: rjant

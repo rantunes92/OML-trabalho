@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1743764283745
+current_stage: None
+description: null
+last_updated_timestamp: 1743764283745
+name: KNN
+run_id: 51159ee60eea44d3b83194e4842e61b9
+run_link: null
+source: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização de
+  Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/51159ee60eea44d3b83194e4842e61b9/artifacts/KNN
+status: READY
+status_message: null
+storage_location: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização
+  de Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/51159ee60eea44d3b83194e4842e61b9/artifacts/KNN
+user_id: null
+version: 2

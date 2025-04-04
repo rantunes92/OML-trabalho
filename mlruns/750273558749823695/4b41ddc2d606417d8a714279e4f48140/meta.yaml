@@ -1,0 +1,16 @@
+artifact_uri: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização
+  de Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/4b41ddc2d606417d8a714279e4f48140/artifacts
+end_time: 1743771890124
+entry_point_name: ''
+experiment_id: '750273558749823695'
+lifecycle_stage: active
+run_id: 4b41ddc2d606417d8a714279e4f48140
+run_name: Decision Trees Run
+run_uuid: 4b41ddc2d606417d8a714279e4f48140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743771861049
+status: 3
+tags: []
+user_id: rjant

@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1743763534692
+current_stage: None
+description: ''
+last_updated_timestamp: 1743763534692
+name: teste
+run_id: 1998e7128bf7484392965a147e792ba3
+run_link: ''
+source: models:/Random_Forest/1
+status: READY
+status_message: null
+storage_location: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização
+  de Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/1998e7128bf7484392965a147e792ba3/artifacts/Random_Forest
+user_id: null
+version: 1

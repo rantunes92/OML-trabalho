@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1743773234413
+current_stage: None
+description: null
+last_updated_timestamp: 1743773234413
+name: Random_Forest
+run_id: f6c9dd5f5c23459389b3298b612e2a90
+run_link: null
+source: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização de
+  Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/f6c9dd5f5c23459389b3298b612e2a90/artifacts/Random_Forest
+status: READY
+status_message: null
+storage_location: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização
+  de Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/f6c9dd5f5c23459389b3298b612e2a90/artifacts/Random_Forest
+user_id: null
+version: 2
