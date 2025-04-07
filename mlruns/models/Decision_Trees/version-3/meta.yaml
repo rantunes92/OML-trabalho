@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1743964036894
+current_stage: None
+description: null
+last_updated_timestamp: 1743964036894
+name: Decision_Trees
+run_id: d52534c0e7f94b17bac5008f4cd4a911
+run_link: null
+source: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização de
+  Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/d52534c0e7f94b17bac5008f4cd4a911/artifacts/Decision_Trees
+status: READY
+status_message: null
+storage_location: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização
+  de Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/d52534c0e7f94b17bac5008f4cd4a911/artifacts/Decision_Trees
+user_id: null
+version: 3

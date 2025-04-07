@@ -1,0 +1,16 @@
+artifact_uri: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização
+  de Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/465d459f94d1421fa7e7942ce4c20ef2/artifacts
+end_time: 1744054342050
+entry_point_name: ''
+experiment_id: '750273558749823695'
+lifecycle_stage: active
+run_id: 465d459f94d1421fa7e7942ce4c20ef2
+run_name: Neural Networks Run
+run_uuid: 465d459f94d1421fa7e7942ce4c20ef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744050883253
+status: 3
+tags: []
+user_id: rjant

@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1743963970825
+current_stage: None
+description: null
+last_updated_timestamp: 1743963970825
+name: SVM
+run_id: abb63d0d57114259bfd814245d25a693
+run_link: null
+source: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização de
+  Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/abb63d0d57114259bfd814245d25a693/artifacts/SVM
+status: READY
+status_message: null
+storage_location: file:c:/Users/rjant/OneDrive/Documentos/Data Science/Operacionalização
+  de Machine Learning/OML-trabalho/OML-trabalho-master/OML-trabalho/rumos_bank/notebooks/../../mlruns/750273558749823695/abb63d0d57114259bfd814245d25a693/artifacts/SVM
+user_id: null
+version: 3
